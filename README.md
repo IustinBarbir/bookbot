@@ -1,8 +1,8 @@
 # bookbot
 
-First boot.dev project
+First boot.dev project 
 
-Bookbot reads a book file and prints out the character counts, sorted from most frequent to least frequent.
+Python project that reads a file and prints out the character counts, sorted from most frequent to least frequent.
 
 ![demo](https://github.com/IustinBarbir/bookbot/blob/main/demo.gif))
 
